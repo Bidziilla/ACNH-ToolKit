@@ -2,6 +2,10 @@
 A multi-purpose cheat menu for Animal Crossing: New Horizons  
 Note: This project is closed source.
 
+<p align="center">
+  <img src="https://github.com/Bidziilla/ACNH-ToolKit/blob/main/NHTK.png" width="256" title="hover text">
+</p>
+
 **What is this?**
 > This is a set of tools for Animal Crossing: New Horizons, made into a convenient overlay file for ease-of-use.
 

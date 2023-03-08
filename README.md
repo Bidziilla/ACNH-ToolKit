@@ -18,6 +18,12 @@ Note: This project is closed source.
 **Something isn't working! What's did I do wrong?**
 > Chances are, it's an error on my part. Please reach out to me here, or on my YouTube page if you are having an issue so I can guide you through it. Thanks! 
 
+**I am getting a memory read error. How come?**
+> Close and re-open the menu. This error may happen when the game crashes, and you reopen the game without restarting the menu.
+
+**Orville says there is interference when I try to visit a friend.**
+> This is the games anti-cheat in action. Simply go into the 'Others' submenu, and click 'Disable Everything'. It will then allow you to travel. You may enable your codes again after you arrive into their island. The error will still occur if a player is in a menu, or someone is currently joining. 
+
 **Thanks to:**
 > Shesez, Wilbo, Arch9SK7, Tristan3579 - Testing  
 > Lukas - Helping me to improve my code  

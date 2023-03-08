@@ -6,7 +6,7 @@ Note: This project is closed source.
 > This is a set of tools for Animal Crossing: New Horizons, made into a convenient overlay file for ease-of-use.
 
 **What's in it?**
-> Text2Item, Walk Through Walls, Moonjump, Coordinates modifier, Free-camera, Shader editor, Shops never close, and Time travel as well as others.
+> Text2Item, Walk Through Walls, Moonjump, Free-camera, Shader editor, Shops never close, and Time travel as well as others.
 
 **How do I use this?**
 > That's easy! Just go to the releases page, download the file, and put it in "switch/.overlays" on your SD card. It doesn't get more simpler than that!

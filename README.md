@@ -26,5 +26,6 @@ Note: This project is closed source.
 
 **Thanks to:**
 > Shesez, Wilbo, Arch9SK7, Tristan3579 - Testing  
+> Arch9SK7, Ninji - Walk through Walls
 > Lukas - Helping me to improve my code  
 > Slattz - Teaching me a lot of ARM64 assembly stuff, helping me improve my code.

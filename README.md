@@ -28,5 +28,6 @@ Note: This project is closed source.
 > Shesez, Wilbo, Arch9SK7, Tristan3579 - Testing  
 > Arch9SK7, Ninji - Walk through Walls  
 > All other mods, created by me (Bidziilla)  
+> JpupTheMighty - Online Testing, suggestions for improvement.
 > Lukas - Helping me to improve my code  
 > Slattz - Teaching me a lot of ARM64 assembly stuff, helping me improve my code.

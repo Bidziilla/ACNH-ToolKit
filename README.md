@@ -27,6 +27,9 @@ Note: This project is closed source.
 **Orville says there is interference when I try to visit a friend.**
 > This is the games anti-cheat in action. Simply go into the 'Others' submenu, and click 'Disable Everything'. It will then allow you to travel. You may enable your codes again after you arrive into their island. The error will still occur if a player is in a menu, or someone is currently joining. 
 
+**Fair Use Disclaimer**
+> In the United States, video game modding is generally considered fair use as long as it does not infringe on copyright laws. ACNHToolKit does not break any copyright laws, as it modifies the game within the boundaries of fair use and was created in the United States. ACNHToolKit is not sponsored, endorsed, publised, or licensed by Nintendo.
+
 **Thanks to:**
 > Shesez, Wilbo, Arch9SK7, Tristan3579 - Testing.  
 > Arch9SK7, Ninji - Walk through Walls.  
